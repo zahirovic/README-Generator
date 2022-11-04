@@ -6,7 +6,7 @@ I created a tool that functions as a README Generator.
 
 ## Installation
 
-- Use the cpmmand line to input your answers to the questions
+- Use the command line to input your answers to the questions
 - a README will be generated 
 
 ## Usage 
